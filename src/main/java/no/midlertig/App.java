@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("This is the implementation of feature 1");
+        System.out.println("This is feature 2");
     }
 }
