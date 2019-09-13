@@ -18,5 +18,6 @@ public class App
         System.out.println("This is the implementation of feature 7");
         System.out.println("This is the implementation of feature 8");
         System.out.println("This is the implementation of feature 9");
+        System.out.println("This is the implementation of feature 10");
     }
 }
